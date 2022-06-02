@@ -28,7 +28,7 @@
 
 {"key": "csp_Enlienli","name": "嗯哩嗯哩(SP)","type": 3,"api": "csp_Enlienli","searchable": 1,"quickSearch": 0,"filterable": 1},
 
-{"key": "csp_Auete","name": "Auete(爬虫)","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 0,"filterable": 1},
+//{"key": "csp_Auete","name": "Auete(爬虫)","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 0,"filterable": 1},
 
 
 
@@ -55,9 +55,9 @@
 
 {"key":"csp_biubiu_七年影视","name":"七年影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/七年影视.json"},
 
-//{"key":"csp_biubiu_饭团影院","name":"饭团影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/饭团影院.json"},
+{"key":"csp_biubiu_饭团影院","name":"饭团影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/饭团影院.json"},
 
-//{"key":"csp_biubiu_奇粹影院","name":"奇粹影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/奇粹影院.json"},
+{"key":"csp_biubiu_奇粹影院","name":"奇粹影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/奇粹影院.json"},
 
 {"key":"csp_biubiu_hdmoli","name":"hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/hdmoli.json"},
 
@@ -68,11 +68,11 @@
 
 {"key":"csp_biubiu_骚火电影","name":"骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/骚火电影.json"},
 
-//{"key":"csp_biubiu_莫扎兔","name":"莫扎兔(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/莫扎兔.json"},
+{"key":"csp_biubiu_莫扎兔","name":"莫扎兔(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/莫扎兔.json"},
 
 {"key":"csp_biubiu_LIBVIO","name":"LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/LIBVIO.json"},
 
-//{"key":"csp_biubiu_周末电影","name":"周末电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/周末电影.json"},
+{"key":"csp_biubiu_周末电影","name":"周末电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/周末电影.json"},
 
 {"key":"csp_biubiu_555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/555电影.json"},
 
@@ -83,9 +83,9 @@
 
 {"key":"csp_biubiu_剧白白-蓝光","name":"剧白白-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/剧白白-蓝光.json"},
 
-//{"key":"csp_biubiu_火火影视","name":"火火影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/火火影视.json"},
+{"key":"csp_biubiu_火火影视","name":"火火影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/火火影视.json"},
 
-//{"key":"csp_biubiu_天空资源","name":"天空资源(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/天空资源.json"},
+{"key":"csp_biubiu_天空资源","name":"天空资源(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/天空资源.json"},
 
 
 {"key":"csp_biubiu_达达龟","name":"达达龟(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/达达龟.json"},
@@ -96,14 +96,14 @@
 
 {"key":"csp_biubiu_黑洞影视","name":"黑洞影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/黑洞影视.json"},
 
-//{"key":"csp_biubiu_神马影视","name":"神马影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/神马影视.json"},
+{"key":"csp_biubiu_神马影视","name":"神马影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/神马影视.json"},
 
-//{"key":"csp_biubiu_北川影视","name":"北川影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/北川影视.json"},
+{"key":"csp_biubiu_北川影视","name":"北川影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/北川影视.json"},
 
 {"key":"csp_biubiu_六度TV","name":"六度TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/六度TV.json"},
 
 
-//{"key":"csp_biubiu_GIMY影视","name":"GIMY影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/GIMY影视.json"},
+{"key":"csp_biubiu_GIMY影视","name":"GIMY影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/GIMY影视.json"},
 
 
 {"key":"csp_biubiu_思乐影视","name":"思乐影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/思乐影视.json"},
@@ -112,28 +112,28 @@
 {"key":"csp_biubiu_如如影视","name":"如如影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/如如影视.json"},
 
 
-//{"key":"csp_biubiu_1080Kkk","name":"1080Kkk(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/1080Kkk.json"},
+/"key":"csp_biubiu_1080Kkk","name":"1080Kkk(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/1080Kkk.json"},
 
 {"key":"csp_biubiu_789影视","name":"789影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/789影视.json"},
 
 {"key":"csp_biubiu_人人影视","name":"人人影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/人人影视.json"},
 
-//{"key":"csp_biubiu_乌龟影院","name":"乌龟影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/乌龟影院.json"},
+{"key":"csp_biubiu_乌龟影院","name":"乌龟影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/乌龟影院.json"},
 
-//{"key":"csp_biubiu_31看影视","name":"31看影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/31看影视.json"},
+{"key":"csp_biubiu_31看影视","name":"31看影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/31看影视.json"},
 
 //{"key":"csp_biubiu_小强迷","name":"小强迷(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/小强迷.json"},
 
 {"key":"csp_biubiu_chok8电影","name":"chok8电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/chok8电影.json"},
 
-//{"key":"csp_biubiu_九州影视","name":"九州影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/九州影视.json"},
+{"key":"csp_biubiu_九州影视","name":"九州影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/九州影视.json"},
 
-//{"key":"csp_biubiu_融兴影视","name":"融兴影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/融兴影视.json"},
+{"key":"csp_biubiu_融兴影视","name":"融兴影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/融兴影视.json"},
 
-//{"key":"csp_biubiu_鸭奈飞","name":"鸭奈飞(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/鸭奈飞.json"},
+{"key":"csp_biubiu_鸭奈飞","name":"鸭奈飞(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/鸭奈飞.json"},
 
 
-//{"key":"csp_biubiu_23影院","name":"23影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/23影院.json"},
+{"key":"csp_biubiu_23影院","name":"23影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/23影院.json"},
 
 {"key":"csp_biubiu_VIP1280","name":"VIP1280(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/VIP1280.json"},
 
@@ -141,7 +141,7 @@
 {"key":"csp_biubiu_手机看剧","name":"手机看剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/手机看剧.json"},
 
 
-//{"key":"csp_biubiu_炫猫影视","name":"炫猫影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/炫猫影视.json"},
+{"key":"csp_biubiu_炫猫影视","name":"炫猫影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/炫猫影视.json"},
 
 {"key":"csp_biubiu_奈落影院","name":"奈落影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/奈落影院.json"},
 
@@ -154,7 +154,7 @@
 
 {"key":"csp_biubiu_影渣渣","name":"影渣渣(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/影渣渣.json"},
 
-//{"key":"csp_biubiu_牛马TV","name":"牛马TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/牛马TV.json"},
+{"key":"csp_biubiu_牛马TV","name":"牛马TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/牛马TV.json"},
 
 {"key":"csp_biubiu_飘花播播","name":"飘花播播(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/飘花播播.json"},
 
@@ -167,23 +167,23 @@
 
 {"key":"csp_biubiu_city电影","name":"city电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/city电影.json"},
 
-//{"key":"csp_biubiu_小傻瓜","name":"小傻瓜(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/小傻瓜.json"},
+{"key":"csp_biubiu_小傻瓜","name":"小傻瓜(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/小傻瓜.json"},
 
 {"key":"csp_biubiu_电影馆","name":"电影馆(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/电影馆.json"},
 
-//{"key":"csp_biubiu_爱看影视","name":"爱看影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/爱看影视.json"},
+{"key":"csp_biubiu_爱看影视","name":"爱看影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/爱看影视.json"},
 
 {"key":"csp_biubiu_视中心影院","name":"视中心影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/视中心影院.json"},
 
-//{"key":"csp_biubiu_干饭影视","name":"干饭影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/干饭影视.json"},
+{"key":"csp_biubiu_干饭影视","name":"干饭影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/干饭影视.json"},
 
 {"key":"csp_biubiu_老茶馆","name":"老茶馆(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/老茶馆.json"},
 
-//{"key":"csp_biubiu_凛冬又至","name":"凛冬又至(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/凛冬又至.json"},
+{"key":"csp_biubiu_凛冬又至","name":"凛冬又至(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/凛冬又至.json"},
 
 {"key":"csp_biubiu_红领巾","name":"红领巾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/红领巾.json"},
 
-//{"key":"csp_biubiu_老电影","name":"老电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/老电影.json"},
+{"key":"csp_biubiu_老电影","name":"老电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/老电影.json"},
 
 
 {"key":"csp_biubiu_伊雪湾","name":"伊雪湾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/伊雪湾.json"},
@@ -197,7 +197,7 @@
 
 {"key":"csp_biubiu_森屋新番","name":"森屋新番(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/森屋新番.json"},
 
-//{"key":"csp_biubiu_漫岛动漫","name":"漫岛动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/漫岛动漫.json"},
+{"key":"csp_biubiu_漫岛动漫","name":"漫岛动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/漫岛动漫.json"},
 
 
 
