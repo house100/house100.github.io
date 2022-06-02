@@ -22,6 +22,11 @@
 
 //{"key":"csp_xpath_Hdmoli","name":"Hdmoli(XPF)","type":3,"api":"csp_XPathHdmoli","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://house100.github.io/XBiubiu/xb/hdmoli.json"},
 
+{"key":"wabc(腾讯直采)","name":"wabc(腾讯直采)(官)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
+{"key":"千寻时光","name":"千寻时光(聚)","type":1,"api":"http://wy.dqyhg.cn/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
+{"key":"兔子窝","name":"兔子窝(聚)","type":1,"api":"http://cj.huimaojia.com:12345/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
+{"key":"快看客栈","name":"快看客栈(聚)","type":1,"api":"https://www.vp1127.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
 //{"key":"csp_Lgyy","name":"蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 
 {"key": "csp_N0ys","name": "90影视(SP)","type": 3,"api": "csp_N0ys","searchable": 1,"quickSearch": 0,"filterable": 0},
