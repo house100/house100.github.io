@@ -86,7 +86,6 @@
 {"key":"csp_biubiu_lezhutv_2","name":"lezhutv_2(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/lezhutv_2.json"},
 {"key":"csp_biubiu_libv","name":"libv(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/libv.json"},
 {"key":"csp_biubiu_LIBVIO","name":"LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/LIBVIO.json"},
-{"key":"csp_biubiu_list","name":"list(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/list.csv},
 {"key":"csp_biubiu_lkvod","name":"lkvod(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/lkvod.json"},
 {"key":"csp_biubiu_lranc","name":"lranc(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/lranc.json"},
 {"key":"csp_biubiu_meiju562","name":"meiju562(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/meiju562.json"},
