@@ -23,8 +23,11 @@
 {"key":"千寻时光","name":"千寻时光(聚)","type":1,"api":"http://wy.dqyhg.cn/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"兔子窝","name":"兔子窝(聚)","type":1,"api":"http://cj.huimaojia.com:12345/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"快看客栈","name":"快看客栈(聚)","type":1,"api":"https://www.vp1127.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-
-
+{"key":"csp_CZSPP","name":"🐼厂长资源(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_GitCafe","name":"🐼小纸条(SP)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_AliPanSou","name":"🐼喵狸盘搜（仅支持搜索）","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},  
+  
+  
 ##XBiubiu 规则
 //{"key":"csp_biubiu_139影视","name":"139影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/139影视.json"},
 //{"key":"csp_biubiu_1080Kkk","name":"1080Kkk(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/1080Kkk.json"},
