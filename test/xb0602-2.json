@@ -260,7 +260,7 @@
 {"key":"*010爱资源","name":"*010爱资源","type":0,"api":"http://www.010aizy.com/API/macs.php","searchable":0,"quickSearch":0},
 {"key":"*91麻豆","name":"*91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*奶茶资源","name":"*奶茶资源","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0}
-{"key":"*美少女资源","name":"*美少女资源","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0},
+//{"key":"*美少女资源","name":"*美少女资源","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"*淫水机资源","name":"*淫水机资源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"*香奶儿资源","name":"*香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"*白嫖资源","name":"*白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0},
