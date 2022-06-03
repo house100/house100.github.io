@@ -1,33 +1,21 @@
 {
 
 "spider":"https://house100.github.io/XBiubiu/xb/xbiu_spider.jar",
-
   
 
 "sites": [
 
 {"key": "csp_77","name": "七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
-
 {"key": "csp_Buka","name": "真不卡(SP)","type": 3,"api": "csp_Buka","searchable": 1,"quickSearch": 0,"filterable": 1},
-
 {"key":"csp_DiDuan","name":"低端影视(SP)","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
-
 {"key":"csp_Zxzj","name":"在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-
 {"key":"csp_Fantuan","name":"饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-
 {"key":"csp_Cokemv","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-
 {"key":"csp_Qicui","name":"奇粹(SP)","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-
 {"key":"csp_xpath_Hdmoli","name":"Hdmoli(XPF)","type":3,"api":"csp_XPathHdmoli","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://house100.github.io/XBiubiu/xb/hdmoli.json"},
-
 {"key":"csp_Lgyy","name":"蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-
 //{"key": "csp_N0ys","name": "90影视(SP)","type": 3,"api": "csp_N0ys","searchable": 1,"quickSearch": 0,"filterable": 0},
-
 //{"key": "csp_Enlienli","name": "嗯哩嗯哩(SP)","type": 3,"api": "csp_Enlienli","searchable": 1,"quickSearch": 0,"filterable": 1},
-
 //{"key": "csp_Auete","name": "Auete(爬虫)","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key":"wabc(腾讯直采)","name":"wabc(腾讯直采)(官)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"千寻时光","name":"千寻时光(聚)","type":1,"api":"http://wy.dqyhg.cn/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
@@ -177,8 +165,6 @@
 {"key":"csp_biubiu_影渣渣","name":"影渣渣(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/影渣渣.json"},
 {"key":"csp_biubiu_在线之家","name":"在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/在线之家.json"},
 {"key":"csp_biubiu_周末电影","name":"周末电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/周末电影.json"},
-
-
 # 广大侠 资源网采集
 #官方解析
 //{"key":"8090资源","name":"8090资源(官)","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","searchable":0,"quickSearch":0},
@@ -231,7 +217,6 @@
 {"key":"乐活影视","name":"乐活影视(优)","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //{"key":"星一蓝光","name":"星一蓝光(优)","type":1,"api":"http://lgku.suboyun.cn/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*CK资源","name":"*CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-
 #
 #18+
 {"key":"*523资源","name":"*523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
@@ -300,7 +285,6 @@
 {"key":"*鲨鱼资源","name":"*鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*速度资源","name":"*速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
 #
-
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
 
 ],
