@@ -4,7 +4,7 @@
 "sites" : [
 {"name" : "copy mj大佬"},
 {"name" : "爬虫"},
-{"api":"csp_Kmys","key":"csp_Kmys","filterable":1,"name":"酷猫","type":3},
+//{"api":"csp_Kmys","key":"csp_Kmys","filterable":1,"name":"酷猫","type":3},
 {"api":"csp_Kunyu77","key":"csp_Kunyu77","filterable":1,"name":"77","type":3},
 {"api":"csp_LiteApple","key":"csp_LiteApple","filterable":1,"name":"小苹果","type":3},
 {"key": "csp_DiDuan","name": "低端","type": 3,"api": "csp_DiDuan","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -29,13 +29,13 @@
 {"key":"csp_appysv2_兄弟影视","name":"兄弟影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://103.91.211.252:88/xgapp.php/v2/"},
 
 {"name":"BiuBiu"},
-{"key":"csp_biubiu_ssdy","name":"双十电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/1010dy.json"},
+{"key":"csp_biubiu_ssdy","name":"双十电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://house100.github.io/XBiubiu/1010dy.json"},
 
-{"key":"csp_biubiu_qyyy","name":"奇优影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/qyyy.json"},
+{"key":"csp_biubiu_qyyy","name":"奇优影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://house100.github.io/XBiubiu/qyyy.json"},
 
-{"key":"csp_biubiu_lezhutv","name":"乐猪影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/lezhutv.json"},
+{"key":"csp_biubiu_lezhutv","name":"乐猪影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://house100.github.io/XBiubiu/lezhutv.json"},
 
-{"key":"csp_biubiu_厂长资源-蓝光","name":"厂长资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/厂长资源-蓝光.json"},
+//{"key":"csp_biubiu_厂长资源-蓝光","name":"厂长资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/厂长资源-蓝光.json"},
 
   
     
