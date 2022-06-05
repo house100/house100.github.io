@@ -35,9 +35,9 @@
 
 {"key":"csp_biubiu_lezhutv","name":"乐猪影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://house100.github.io/XBiubiu/lezhutv.json"},
 
-{"key":"csp_biubiu_厂长资源-蓝光","name":"厂长资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/厂长资源-蓝光.json"},
+//{"key":"csp_biubiu_厂长资源-蓝光","name":"厂长资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/厂长资源-蓝光.json"},
 
-{"key":"csp_biubiu_小草影视","name":"小草影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://house100.github.io/XBiubiu/xb/小草影视.json"},
+//{"key":"csp_biubiu_小草影视","name":"小草影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://house100.github.io/XBiubiu/xb/小草影视.json"},
   
     
 {"name":"推送"},
