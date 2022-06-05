@@ -26,8 +26,8 @@
 {"key":"csp_Xbiubiu_Lgyy","name":"蓝光影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://house100.github.io/XBiubiu/lgyy.json"},
 {"key":"csp_Xbiubiu_ysgc","name":"影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://house100.github.io/XBiubiu/ysgc.json"},
 {"key":"csp_Xbiubiu_555","name":"555影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://house100.github.io/XBiubiu/555.json"},
-{"key":"csp_biubiu_厂长资源-蓝光","name":"厂长资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/厂长资源-蓝光.json"},
-{"key":"csp_biubiu_小草影视","name":"小草影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/小草影视.json"},
+{"key":"csp_biubiu_厂长资源-蓝光","name":"厂长资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":,"ext":"https://house100.github.io/XBiubiu/厂长资源-蓝光.json"},
+//{"key":"csp_biubiu_小草影视","name":"小草影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/小草影视.json"},
 
 
 
