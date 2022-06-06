@@ -20,7 +20,7 @@
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}],
 
 "lives":[
-{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly90YW5nc2FuOTk5OTkuZ2l0aHViLmlvL2wvbGl2ZS5ibXA="]}]}],
+{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzgxLjcwLjc3LjU6NzgwMC90di8="]}]}],
 
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
