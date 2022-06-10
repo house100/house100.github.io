@@ -1,4 +1,5 @@
-{"wallpaper": "https://picsum.photos/1280/720/?blur=10",
+{
+"wallpaper": "https://picsum.photos/1280/720/?blur=10",
  "spider": "https://tp.hefollo.com/down.php/eaf7e52fcb264141ea89b2dd3e657e98.txt&jllyzjs",
     "sites": [{
             "key": "csp_LiteApple",
