@@ -90,15 +90,9 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "buka_spider",
-      "name": "📒不卡(SP)",
-      "type": 3,
-      "api": "csp_Buka",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+    
+   // {"key": "buka_spider","name": "📒不卡(SP)","type": 3,"api": "csp_Buka", "searchable": 0,"quickSearch": 0, "filterable": 0},
+    
     {
       "key": "csp_xpath_nbys",
       "name": "泥巴(SP需翻墙)",
@@ -163,16 +157,10 @@
       "filterable": 0,
       "ext": "https://house100.github.io/XBiubiu/xb/555资源.json"
     },
-    {
-      "key": "v2_团夕",
-      "name": "团夕(V2)",
-      "type": 3,
-      "api": "csp_AppYs2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://www.kan365.xyz/api.php/app/"
-    },
+   
+   //{"key": "v2_团夕","name": "团夕(V2)","type": 3,"api": "csp_AppYs2", "searchable": 1, "quickSearch": 0,"filterable": 1,"ext": "https://www.kan365.xyz/api.php/app/"},
+   //{"key": "csp_xpath_hdmoli","name": "HD茉莉(XP)", "type": 3, "api": "csp_XPathFilter","searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "https://house100.github.io/XBiubiu/xb/hdmoli.json"},
+    
     {
       "key": "csp_xpath_huya",
       "name": "虎牙直播",
@@ -182,17 +170,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://house100.github.io/XBiubiu/huya.json"
-    },
-    {
-      "key": "csp_xpath_hdmoli",
-      "name": "HD茉莉(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://house100.github.io/XBiubiu/xb/hdmoli.json"
-    },
+    },   
     {
       "key": "诺讯采集",
       "name": "诺讯采集",
@@ -212,7 +190,25 @@
       "quickSearch": 1,
       "filterable": 0
     }
-  ],
+    {"key":"if101资源","name":"🔥if101(海外推荐)","type":0,
+    "api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
+    
+ {"key":"csp_biubiu_哔嘀影视","name":"📮哔嘀影视(XB)","type":3,
+ "api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/哔嘀影视.json"},
+ 
+{"key":"csp_xpath_dandanzan10","name":"🎲蛋蛋赞(电影)(XPF)","type":3,
+"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://house100.github.io/XBiubiu/xb/dandanzan10.json"},
+
+{"key":"csp_biubiu_影视工厂","name":"🎯影视工厂(XB)","type":3,
+"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/ysgc.json""},
+{"key":"csp_biubiu_骚火电影","name":"🔷骚火电影(XB)","type":3,
+"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/XBiubiu/xb/骚火电影.json"},
+
+ ],
+  
+  
+  
+ //以下直播列表 
  "lives": [
 //proxy加载列表
 //{"group":"redirect","channels":[
@@ -1851,6 +1847,9 @@
 {"name":"百视通电竞","urls":["http://39.135.55.105:6610/PLTV/88888888/224/3221227033/index.m3u8?servicetype=1"]}
 ]}
 ],
+
+
+//解X设置
   "parses": [
     {
       "name": "解析聚合",
@@ -1867,6 +1866,27 @@
       "type": 2,
       "url": "Sequence"
     },
+    //
+{"name": "293","type": 1,"url": "http://81.71.48.249:4456/jsonc/longxia.php?url=","ext": {"flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],
+"header": {"User-Agent": "Dart/2.14 (dart:io)"}}},
+{"name":"江湖解析","type":1,"url":"http://103.40.240.46/jh/?url=","ext":{"flag":["renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","xigua","西瓜","letv","乐视","bilibili","哔哩哔哩","哔哩"]}},
+{"name":"王牌","type":1,"url":"https://za.kuanjv.com/?url=","ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","mgtv","芒果","xigua","西瓜","letv","乐视"]}},
+{"name":"parwix1","type":0,"url":"https://jx.parwix.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+{"name":"parwix2","type":0,"url":"https://jx.parwix.com:4433/player/analysis.php?v=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+{"name":"美剧虫","type":0,"url":"https://jx.daiguaji.com/?url=","ext":{"flag":["zijian"]}},
+{"name":"欢雨3","type":1,"url":"http://www.youhuifuligou.com/json/?id=3&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","letv","乐视","xigua","西瓜"]}},
+{"name":"欢雨7","type":1,"url":"http://www.youhuifuligou.com/json/?id=7&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","letv","乐视","xigua","西瓜"]}},
+{"name":"欢雨9","type":1,"url":"http://www.youhuifuligou.com/json/?id=9&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","letv","乐视","xigua","西瓜"]}},
+{"name":"虾米解析","url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+{"name":"m1907","url":"https://z1.m1907.cn/?jx=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+{"name":"Bl解析","url":"https://vip.bljiex.com/?v=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+{"name":"ckmov","url":"https://www.ckmov.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+{"name":"尊享","url":"https://player.maqq.cn/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+{"name":"星驰","url":"https://vip.swuii.top/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+{"name":"Mao","url":"https://www.mtosz.com/m3u8.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+{"name":"盘古json","url":"https://json.pangujiexi.com:12345/json.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+{"name":"夜幕","url":"https://www.yemu.xyz/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+    
     {
       "name": "web1",
       "type": 0,
@@ -1889,6 +1909,8 @@
       }
     }
   ],
+  
+  //解X匹配
   "flags": [
     "youku",
     "qq",
@@ -1904,6 +1926,8 @@
     "duoduozy",
     "bilibili"
   ],
+  
+  //IJK解码器设置
   "ijk": [
     {
       "group": "软解码",
@@ -2076,6 +2100,9 @@
       ]
     }
   ],
+  
+  
+  //广告域名过滤
   "ads": [
     "mimg.0c1q0l.cn",
     "www.googletagmanager.com",
