@@ -1,1 +1,1 @@
-### https://house100.github.io/xiaobai.json
+自用，请勿传播
