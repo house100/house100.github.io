@@ -143,7 +143,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://house100.github.io/mao/sub/XB蓝光影视.json"
+      "ext": "https://house100.github.io/mao/sub/XB/蓝光影视.json"
     },
     {
       "key": "csp_biubiu_555",
@@ -153,7 +153,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://house100.github.io/mao/sub/XB555资源.json"
+      "ext": "https://house100.github.io/mao/sub/XB/555资源.json"
     },
    
    //{"key": "v2_团夕","name": "团夕(V2)","type": 3,"api": "csp_AppYs2", "searchable": 1, "quickSearch": 0,"filterable": 1,"ext": "https://www.kan365.xyz/api.php/app/"},
@@ -237,10 +237,10 @@
    // {"key":"if101资源","name":"🔥if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
     
  {"key":"csp_biubiu_哔嘀影视","name":"📮哔嘀影视(XB)","type":3,
- "api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/mao/sub/XB哔嘀影视.json"},
+ "api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/mao/sub/XB/哔嘀影视.json"},
  
 {"key":"csp_xpath_dandanzan10","name":"🎲蛋蛋赞(电影)(XPF)","type":3,
-"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://house100.github.io/mao/sub/XBdandanzan10.json"},
+"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://house100.github.io/mao/sub/XB/dandanzan10.json"},
 
 {"key":"csp_biubiu_影视工厂","name":"🎯影视工厂(XB)","type":3,
 "api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://house100.github.io/mao/sub/XB/ysgc.json"},
