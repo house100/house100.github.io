@@ -181,7 +181,7 @@
     },
     {
       "key": "优酷视频会员(官源)",
-      "name": "优酷视频会员(官源)     ",
+      "name": "优酷(官源)     ",
       "type": 0,
       "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml/",
       "searchable": 1,
@@ -190,7 +190,7 @@
     },
     {
       "key": "爱奇艺会员(官源)",
-      "name": "爱奇艺会员(官源)     ",
+      "name": "爱奇艺(官源)     ",
       "type": 0,
       "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qiyi/at/xml/",
       "searchable": 1,
