@@ -408,8 +408,8 @@
 		"channels": [{
 			"name": "live",
 			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ob3VzZTEwMC5naXRodWIuaW8vbWFvL3N1Yi9saXZlL2xpdmUwMy50eHQK"]
-//["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ob3VzZTEwMC5naXRodWIuaW8vbWFvL3N1Yi9saXZlL2xpdmUwMi50eHQK"]
-//["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ob3VzZTEwMC5naXRodWIuaW8vbWFvL3N1Yi9saXZlL2xpdmUwMS50eHQK"]
+//"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ob3VzZTEwMC5naXRodWIuaW8vbWFvL3N1Yi9saXZlL2xpdmUwMi50eHQK"]
+//"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ob3VzZTEwMC5naXRodWIuaW8vbWFvL3N1Yi9saXZlL2xpdmUwMS50eHQK"]
 		}]
 	}],
 	"parses": [{
