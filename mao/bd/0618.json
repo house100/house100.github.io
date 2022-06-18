@@ -70,7 +70,7 @@
 		"api": "csp_Blixs",
 		"searchable": 1,
 		"quickSearch": 0,
-		"filterable": 1,		
+		"filterable": 1		
 	}, {
                 "key": "csp_GitCafe",
 		"name": "纸条📃",
