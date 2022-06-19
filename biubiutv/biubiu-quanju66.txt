@@ -1,6 +1,7 @@
 {"zhuyejiekou": [
 {"name":"独播社","url":"http://35ys.cc/api.php/v1.vod"},
 {"name":"猫看看","url":"http://mkk.gotka.top/api.php/v1.vod"},
+{"name":"美剧","url":"http://ttzmz.net/api.php/v1.vod"},
 {"name":"痞痞狸","url":"http://app.ppli.xyz/api.php/v1.vod"},
 {"name":"看365","url":"https://www.kan365.xyz/api.php/app/"},
 {"name":"皮皮兔","url":"https://v.pipitu.top/xgapp.php/v2/"},
