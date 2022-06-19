@@ -365,23 +365,14 @@
 		"filterable": 0,
 		"ext": "https://house100.github.io/mao/sub/XB/4kan电影网.json"
 	}, {
-		"key": "csp_biubiu_扛把子",
-		"name": "🥒扛把子影院(XB)🐞",
+		"key": "csp_xpath_kangbazi",
+		"name": "🥒扛把子影院(XP)🐞",
 		"type": 3,
-		"api": "csp_XBiubiu",
+		"api": "csp_XPath",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
 		"ext": "https://house100.github.io/mao/sub/XB/扛把子.json"
-	}, {
-		"key": "csp_xpath_netf",
-		"name": "网飞(XP)",
-		"type": 3,
-		"api": "csp_XPathFilter",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://house100.github.io/mao/sub/XP/netflix.json"
 	}, {
 		"key": "csp_XPathMacFilter_极品",
 		"name": "极品(XPF)🥒",
