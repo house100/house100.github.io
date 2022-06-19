@@ -55,4 +55,11 @@
 "bfbiaotiqian": ">",
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
-"bflianjiehou": "\""}
+"bflianjiehou": "\""
+"searchUrl": "https://www.ququmc.com/search?wd={wd}",
+ "scVodNode": "//li[contains(@class, 'active clearfix')]/div[contains(@class, 'thumb')]",
+ "scVodName": "/a/@title",
+ "scVodId": "/@href",
+ "scVodIdR": "",
+ "scVodImg": "/@data-original",
+ "scVodMark": ""}
