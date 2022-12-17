@@ -8,7 +8,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=./live.txt"
+            "proxy://do=live&type=txt&ext=http://wole.cf/box/cns/live.txt"
           ]
         }
       ]
