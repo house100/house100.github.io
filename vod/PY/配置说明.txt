@@ -1,0 +1,8 @@
+★不支持PY源的版本，无法使用本配置！！！
+★关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与使用教程。
+★源接口：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json；
+20230327本地化。
+①：TVBox开启存储权限；
+②：解压到tvbox文件夹下或其它位置；
+③：配置地址：clan://localhost/tvbox/py/api.json；
+④：如果解压到其它位置，配置地址自行修改。
