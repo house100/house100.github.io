@@ -5,27 +5,10 @@
   
   <entry>
     <title></title>
-    <link href="/blog/%E5%B0%91%E5%B9%B4%E7%BB%B4%E7%89%B9%E7%9A%84%E7%83%A6%E6%81%BC%202ffbb097bad14ec88be8e4fbdeee55c4/"/>
-    <url>/blog/%E5%B0%91%E5%B9%B4%E7%BB%B4%E7%89%B9%E7%9A%84%E7%83%A6%E6%81%BC%202ffbb097bad14ec88be8e4fbdeee55c4/</url>
-    
-    <content type="html"><![CDATA[<h1 id="少年维特的烦恼"><a href="#少年维特的烦恼" class="headerlink" title="少年维特的烦恼"></a>少年维特的烦恼</h1><p>Property: December 9, 2022 6:59 PM<br>category: 好书分享<br>date: 2022&#x2F;12&#x2F;08<br>slug: Werther<br>status: Published<br>summary: 少年维特的烦恼，每天更新一章（如果坚持下来）<br>tags: 少年维特的烦恼, 歌德<br>type: Post</p><aside>💡 **少年维特的烦恼 (德)歌德 著**</aside><ul><li><a href="https://www.notion.so/293af73a1da645248068b163271b535a">一七七一年五月四日</a></li><li><a href="https://www.notion.so/46cba3c60dc8439f9d0c47dadce787c8">五月十日</a></li></ul>]]></content>
+    <link hre
     
     
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>测试文章标题</title>
-    <link href="/blog/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <url>/blog/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
-    
-    <content type="html"><![CDATA[<p>Welcom</p><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p>二级标题下内容</p><h3 id="三级标题：发表新文章"><a href="#三级标题：发表新文章" class="headerlink" title="三级标题：发表新文章"></a>三级标题：发表新文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;我的新文章示例&quot;</span><br></code></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/writing.html">链接示例</a></p>]]></content>
-    
-    
-    
-  </entry>
+ 
   
   
   
@@ -42,16 +25,6 @@
   
   
   
-  <entry>
-    <title>博客搭建记录</title>
-    <link href="/blog/github+hexo%20%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-    <url>/blog/github+hexo%20%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
-    
-    <content type="html"><![CDATA[<h2 id="一、前期准备"><a href="#一、前期准备" class="headerlink" title="一、前期准备"></a>一、前期准备</h2><p>1.github：用户名zhangsan1，pang：zhangsan2.github.io ，注册邮箱<a href="mailto:&#122;&#x68;&#x61;&#x6e;&#x67;&#115;&#x61;&#x6e;&#51;&#64;&#103;&#x6d;&#x61;&#105;&#108;&#x2e;&#x63;&#x6f;&#x6d;">&#122;&#x68;&#x61;&#x6e;&#x67;&#115;&#x61;&#x6e;&#51;&#64;&#103;&#x6d;&#x61;&#105;&#108;&#x2e;&#x63;&#x6f;&#x6d;</a>（zhangsan为示例名）<br>2.安装Git<br>3.安装Node.js</p><h2 id="二、key配置"><a href="#二、key配置" class="headerlink" title="二、key配置"></a>二、key配置</h2><p>第一步：首先打开电脑文件夹，找到C:\Users\Administrator.ssh文件夹并删除</p><p>第二步：在C:\Users\Administrator\文件夹下右键打开Git Bash Here输入命令：ssh-keygen -t rsa -C github邮件地址   生成.ssh秘钥，输入后连敲三次回车</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ ssh-keygen -t rsa -C zhangsan3@gmail.com（个人邮箱）<br></code></pre></td></tr></table></figure><p>第三步：最终生成了一个新的 C:\Users\Administrator.ssh文件夹，打开这个文件夹，找到.ssh\id_rsa.pub文件，记事本打开并复制里面的内容</p><p>第四步：打开你的github主页，进入个人设置 -&gt; SSH and GPG keys -&gt; New SSH key，把复制的内容粘贴进去，title随便填，保存即可，我们的公钥就添加成功了.</p><p>第五步：检测是否设置成功：<br>输入命令：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">  $ ssh -T git@github.com <span class="hljs-comment">##  注意邮箱地址不用改</span><br></code></pre></td></tr></table></figure><p>如果提示Are you sure you want to continue connecting (yes&#x2F;no)?，输入yes，然后会看到：<br>Hi zhangsan! You’ve successfully authenticated, but GitHub does not provide shell access.<br>看到这个信息说明SSH已配置成功！</p><p>第六步：此时你还需要配置：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ git config --global user.name <span class="hljs-string">&quot;zhangsan1&quot;</span>                                   // 你的github用户名，非昵称<br></code></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ git config --global user.email  <span class="hljs-string">&quot;zhangsan3@gmail.com&quot;</span>            // 填写你的github注册邮箱 <br></code></pre></td></tr></table></figure><h2 id="三、将博客部署到-github-个人主页上"><a href="#三、将博客部署到-github-个人主页上" class="headerlink" title="三、将博客部署到 github 个人主页上"></a>三、将博客部署到 github 个人主页上</h2><h3 id="1：找一个文件夹，比如在E-文档-blog目录下安装"><a href="#1：找一个文件夹，比如在E-文档-blog目录下安装" class="headerlink" title="1：找一个文件夹，比如在E:\文档\blog目录下安装"></a>1：找一个文件夹，比如在E:\文档\blog目录下安装</h3><p>右键点击Git Bash here<br>安装命令： </p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ npm install hexo-deployer-git --save <br></code></pre></td></tr></table></figure><h3 id="2：编辑E-文档-blog目录下的-config-yml-文件-在文件末尾添加如下内容："><a href="#2：编辑E-文档-blog目录下的-config-yml-文件-在文件末尾添加如下内容：" class="headerlink" title="2：编辑E:\文档\blog目录下的 _config.yml 文件, 在文件末尾添加如下内容："></a>2：编辑E:\文档\blog目录下的 _config.yml 文件, 在文件末尾添加如下内容：</h3><p>deploy:<br>   type: git<br>   repository: <a href="https://github.com/zhangsan1/zhangsan2.github.io.git">https://github.com/zhangsan1/zhangsan2.github.io.git</a><br>   branch: main</p><p>注意：其中repository: 中的内容即为 github 个人主页链接地址</p><p>第三步：在E:\文档\blog目录下, 输入命令：hexo d 将本地 blog 推送到 github仓库, 也可能需要输入 username &amp; pwd。</p><p>推送成功后, 在浏览器中输入对应域名, 即可访问 <a href="https://zhangsan2.github.io/">https://zhangsan2.github.io/</a></p><h2 id="四-更换主题"><a href="#四-更换主题" class="headerlink" title="四. 更换主题"></a>四. 更换主题</h2><h3 id="1-寻找主题"><a href="#1-寻找主题" class="headerlink" title="1. 寻找主题"></a>1. 寻找主题</h3><p>既然默认主题很丑，那我们别的不做，首先来替换一个好看点的主题。</p><p>这是hexo官网：<a href="https://hexo.io/themes/%EF%BC%8C%E5%8F%AF%E5%9C%A8%E9%87%8C%E9%9D%A2%E4%B8%8B%E8%BD%BD%E4%B8%BB%E9%A2%98%EF%BC%8C%E7%82%B9%E5%87%BB%E4%B8%BB%E9%A2%98%E5%90%8D%E5%8D%B3%E5%8F%AF%E8%B7%B3%E8%BD%AC%E5%88%B0github%E4%B8%8A%EF%BC%8C%E4%B9%9F%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E5%9C%A8github%E4%B8%8A%E6%90%9C%E7%B4%A2%E4%B8%BB%E9%A2%98">https://hexo.io/themes/，可在里面下载主题，点击主题名即可跳转到github上，也可以直接在github上搜索主题</a></p><p>在这里我使用github上一个大佬的主题blinkfox&#x2F;hexo-theme-matery</p><p>链接：<a href="https://github.com/blinkfox/hexo-theme-matery">https://github.com/blinkfox/hexo-theme-matery</a>    </p><h3 id="2-下载主题"><a href="#2-下载主题" class="headerlink" title="2.下载主题"></a>2.下载主题</h3><p>第一步：下载主题或再输入命令 $ git clone 主题http链接  themes&#x2F;主题名称<br>第二步：</p><h2 id="五-绑定自己域名"><a href="#五-绑定自己域名" class="headerlink" title="五.绑定自己域名"></a>五.绑定自己域名</h2><h3 id="1-向-Github-Pages-仓库添加一个CNAME-一定要大写-文件"><a href="#1-向-Github-Pages-仓库添加一个CNAME-一定要大写-文件" class="headerlink" title="1.向 Github Pages 仓库添加一个CNAME(一定要大写)文件"></a>1.向 Github Pages 仓库添加一个CNAME(一定要<em>大写</em>)文件</h3><p>如果是用 hexo 框架搭建博客并部署到 Github Pages 上，每次</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt; hexo g<br>&gt; hexo d<br></code></pre></td></tr></table></figure><p>后会把你的博客所在目录下 public 文件夹里的东西都推到 Github Pages 仓库上，并且把 CNAME 文件覆盖掉，解决这个问题可以直接把 CNAME 文件添加到 source 文件夹里，这样每次推的时候就不用担心仓库里的 CNAME 文件被覆盖掉了。</p><h3 id="2-DNS-配置中添加-3-条记录"><a href="#2-DNS-配置中添加-3-条记录" class="headerlink" title="2.DNS 配置中添加 3 条记录"></a>2.DNS 配置中添加 3 条记录</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">@          A                  192.30.252.153<br>@          A                  192.30.252.154<br>www      CNAME           zhangsan2.github.io.<br></code></pre></td></tr></table></figure><h3 id="3-等待你的-DNS-配置生效"><a href="#3-等待你的-DNS-配置生效" class="headerlink" title="3.等待你的 DNS 配置生效"></a>3.等待你的 DNS 配置生效</h3><p>对DNS的配置不是立即生效的，过10分钟再去访问你的域名看看有没有配置成功 </p><h3 id="4-启用-HTTPS"><a href="#4-启用-HTTPS" class="headerlink" title="4.启用 HTTPS"></a>4.启用 HTTPS</h3><p>HTTPS 让你的网站和网站访客更安全，并且 Github 提供的这些 IP 地址自动将你的站点加入了 CDN，提高了访问速度。你还可以在 GiHub Pages 仓库的设置里勾选 ‘Enforce HTTPS’，这样所有访问你站点的请求都会走 HTTPS。</p>]]></content>
-    
-    
-    
-  </entry>
   
   
   
