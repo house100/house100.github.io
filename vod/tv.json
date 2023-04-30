@@ -1,0 +1,21 @@
+{ "urls": [{ "url": "https://vip666.netlify.app/vod/饭太硬/api.json", "name": "线路1（饭太硬）" },
+
+{ "url": "https://vip666.netlify.app/vod/肥猫/api.json", "name": "线路2（肥猫）" },
+
+{ "url": "https://vip666.netlify.app/vod/夜猫子/api.json", "name": "线路3（夜猫子）" },
+
+{ "url": "https://vip666.netlify.app/vod/运输车/api.json", "name": "线路4（运输车）"},
+
+{ "url": "https://vip666.netlify.app/vod/dxawi/api.json", "name": "线路5（dxawi）" },
+
+{ "url": "https://vip666.netlify.app/vod/菜妮丝/api.json", "name": "线路6（菜妮丝）" },
+
+{ "url": "https://vip666.netlify.app/vod/巧计/api.json", "name": "线路7（巧计）" },
+
+{ "url": "https://vip666.netlify.app/vod/南风/api.json", "name": "线路8（南风）" },
+
+{ "url": "https://vip666.netlify.app/vod/JS/api.json", "name": "线路9（JS）" },
+
+{ "url": "https://vip666.netlify.app/vod/py/api.json", "name": "线路10（PY）" },
+
+{ "url": "https://vip666.netlify.app/vod/tangs/api.json", "name": "线路11（唐三）" }]}
