@@ -1,21 +1,57 @@
-{ "urls": [{ "url": "https://vip666.netlify.app/vod/饭太硬/api.json", "name": "线路1（饭太硬）" },
 
-{ "url": "https://vip666.netlify.app/vod/肥猫/api.json", "name": "线路2（肥猫）" },
 
-{ "url": "https://vip666.netlify.app/vod/夜猫子/api.json", "name": "线路3（夜猫子）" },
+{
+    "urls": [
+        {
+            "url": "http://饭太硬.ga/tv",
+            "name": "🚀饭太硬线路"
+        },          
+        {
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "🚀肥猫线路"
+        },
+        {
+            "url": "http://tvbo.run.goorm.site/tangs.json",
+            "name": "🚀唐三线路"
+        }, 
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "🚀蜂蜜线路"
+        },                                                        
+        {
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "🚀道长线路"
+        },                
+        {
+            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "name": "🚀小苹果线路"
+        },
+                   
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "🚀菜妮丝线路"
+        },
+        {
+            "url": "https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json",
+            "name": "🚀香雅情线路"
+        },           
 
-{ "url": "https://vip666.netlify.app/vod/运输车/api.json", "name": "线路4（运输车）"},
-
-{ "url": "https://vip666.netlify.app/vod/dxawi/api.json", "name": "线路5（dxawi）" },
-
-{ "url": "https://vip666.netlify.app/vod/菜妮丝/api.json", "name": "线路6（菜妮丝）" },
-
-{ "url": "https://vip666.netlify.app/vod/巧计/api.json", "name": "线路7（巧计）" },
-
-{ "url": "https://vip666.netlify.app/vod/南风/api.json", "name": "线路8（南风）" },
-
-{ "url": "https://vip666.netlify.app/vod/JS/api.json", "name": "线路9（JS）" },
-
-{ "url": "https://vip666.netlify.app/vod/py/api.json", "name": "线路10（PY）" },
-
-{ "url": "https://vip666.netlify.app/vod/tangs/api.json", "name": "线路11（唐三）" }]}
+        {
+            "url": "http://101.34.67.237/config/1",
+            "name": "🚀小雅线路"
+        },
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "🚀俊佬线路"
+        }, 
+      
+        {
+            "url": "https://app.easybox.vip/dy",
+            "name": "🚀easybox线路"
+        }
+        {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "🐹吾爱线路"
+        }
+    ]
+}
