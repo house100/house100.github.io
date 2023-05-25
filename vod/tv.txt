@@ -11,7 +11,7 @@
             "name": "🚀肥猫线路"
         },
         {
-            "url": "http://tvbo.run.goorm.site/tangs.json",
+            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
             "name": "🚀唐三线路"
         }, 
         {
