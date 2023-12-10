@@ -1,1 +1,22 @@
 
+    {
+      name: '偏偏喜欢你',
+      artist: '陈百强',
+      url: 'https://house100.github.io/vod/music/偏偏喜欢你.flac',
+      cover:
+            'https://house100.github.io/vod/music/偏偏喜欢你.webp'
+    },
+    {
+      name: '一生所爱',
+      artist: '卢冠廷 莫文蔚',
+      url: 'https://house100.github.io/vod/music/一生所爱.flac',
+      cover:
+            'https://house100.github.io/vod/music/一生所爱.jpeg'
+    },
+    {
+      name: '一生不变',
+      artist: '李克勤',
+      url: 'https://house100.github.io/vod/music/一生不变.flac',
+      cover:
+            'https://house100.github.io/vod/music/一生不变.png'
+    }
