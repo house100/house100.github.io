@@ -25,13 +25,10 @@
             "url": "https://100km.top/0",
             "name": "🚀下回带我吃线路"
         },
-        {
-            "url": "https://already.free.hr/okcaptain/okjar/rm/ok.json",
-            "name": "🚀OK线路1"
-        },
+       
         {
             "url": "https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.json",
-            "name": "🚀ok线路2"
+            "name": "🚀ok线路"
         },
         {
             "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
