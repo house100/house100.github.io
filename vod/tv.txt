@@ -25,6 +25,10 @@
             "url": "https://100km.top/0",
             "name": "🚀下回带我吃线路"
         },
+        {
+            "url": "https://tvbox.27736435.repl.co/api.json",
+            "name": "🚀影视资源"
+        },
 
         {
             "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
